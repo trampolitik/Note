@@ -1,0 +1,16 @@
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.csproj.AssemblyReference.cache
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.AssemblyInfoInputs.cache
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.AssemblyInfo.cs
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.csproj.CoreCompileInputs.cache
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.MvcApplicationPartsAssemblyInfo.cache
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.RazorAssemblyInfo.cache
+G:\C#\ToDo\ToDoItem\obj\Debug\net6.0\ToDoItemPro.RazorAssemblyInfo.cs
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.csproj.AssemblyReference.cache
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.AssemblyInfoInputs.cache
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.AssemblyInfo.cs
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.csproj.CoreCompileInputs.cache
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.MvcApplicationPartsAssemblyInfo.cache
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.RazorAssemblyInfo.cache
+G:\C#\ToDo\ToDo\obj\Debug\net6.0\ToDoItemPro.RazorAssemblyInfo.cs
